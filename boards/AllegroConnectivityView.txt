@@ -1,0 +1,14 @@
+#
+# Connectivity - Simple Net list.
+#
+CONNECTIVITY
+  NET_NAME != ''
+  CLASS = 'PIN'
+  NET_NAME_SORT
+  NODE_SORT
+  NET_NAME
+  REFDES
+  PIN_NUMBER
+  PIN_NAME
+  SUBCLASS
+END
